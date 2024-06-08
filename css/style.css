@@ -1341,7 +1341,7 @@ a:hover {
     }
 
     .desc {
-        font-size: 12px;
+        font-size: 13px;
     }
 
     .header_subtitle {
@@ -1354,7 +1354,7 @@ a:hover {
     .header_down {
         width: 160px;
         height: 110px;
-        margin-top: 150px;
+        margin-top: 100px;
     }
 
     .description_tag {
