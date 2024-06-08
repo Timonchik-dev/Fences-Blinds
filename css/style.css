@@ -7,14 +7,6 @@
 
 @font-face {
     font-family: 'CenturyGothic';
-    src: url(/font/CenturyGothicPaneuropeanBlack.ttf);
-    src: url(/font/CenturyGothicPaneuropeanBlackItalic.ttf);
-    src: url(/font/CenturyGothicPaneuropeanBold.ttf);
-    src: url(/font/CenturyGothicPaneuropeanExtraBold.ttf);
-    src: url(/font/CenturyGothicPaneuropeanItalic.ttf);
-    src: url(/font/CenturyGothicPaneuropeanLight.ttf);
-    src: url(/font/CenturyGothicPaneuropeanRegular.ttf);
-    src: url(/font/CenturyGothicPaneuropeanSemiBold.ttf);
     src: url(/font/CenturyGothicPaneuropeanThin.ttf);
 }
 
@@ -43,7 +35,6 @@ body {
 }
 
 .header_block {
-    font-family: 'CenturyGothic';
     position: fixed;
     top: 0;
     width: 100%;
@@ -58,7 +49,6 @@ body {
 
 
 .nav-item {
-    font-family: 'CenturyGothic';
     color: aliceblue;
     text-decoration: none;
     margin-right: 140px;
@@ -71,14 +61,12 @@ body {
 }
 
 .number {
-    font-family: 'CenturyGothic';
     color: aliceblue;
     display: flex;
     align-items: center;
 }
 
 .number-desc {
-    font-family: 'CenturyGothic';
     display: flex;
     align-items: center;
     font-size: 22px;
@@ -183,7 +171,6 @@ body {
 }
 
 .header_down {
-    font-family: 'CenturyGothic';
     color: aliceblue;
     position: absolute;
     width: 580px;
@@ -197,7 +184,6 @@ body {
 }
 
 .header_subtitle {
-    font-family: 'CenturyGothic';
     font-weight: 700;
     font-size: 32px;
     padding-left: 40px;
@@ -206,14 +192,12 @@ body {
 }
 
 .titles {
-    font-family: 'CenturyGothic';
     background-color: #222c35;
     height: 300px;
     padding: 75px
 }
 
 .title {
-    font-family: 'CenturyGothic';
     color: aliceblue;
     display: flex;
     justify-content: center;
@@ -222,7 +206,6 @@ body {
 }
 
 .desc {
-    font-family: 'CenturyGothic';
     color: aliceblue;
     display: flex;
     justify-content: center;
@@ -230,7 +213,6 @@ body {
 }
 
 .tytles {
-    font-family: 'CenturyGothic';
     color: aliceblue;
     font-size: 55px;
     display: flex;
@@ -247,7 +229,6 @@ body {
 }
 
 .header_card {
-    font-family: 'CenturyGothic';
     display: flex;
     justify-content: space-between;
     margin-bottom: 80px;
@@ -255,7 +236,6 @@ body {
 }
 
 .header_cards {
-    font-family: 'CenturyGothic';
     width: 370px;
     height: 640px;
     background-color: #222c35;
@@ -274,7 +254,6 @@ body {
 }
 
 .description_1 {
-    font-family: 'CenturyGothic';
     background-color: aliceblue;
     color: rgb(0, 0, 0);
     font-size: 18px;
@@ -287,12 +266,10 @@ body {
 }
 
 .description_tag {
-    font-family: 'CenturyGothic';
     font-weight: 700;
 }
 
 .btn_prod {
-    font-family: 'CenturyGothic';
     color: #ffffff;
     background-color: #222c35;
     border-radius: 5px;
@@ -314,13 +291,11 @@ body {
 }
 
 .header-connection {
-    font-family: 'CenturyGothic';
     background-color: #222c35;
     height: 600px;
 }
 
 .connection {
-    font-family: 'CenturyGothic';
     display: flex;
     justify-content: center;
     font-size: 40px;
@@ -336,7 +311,6 @@ body {
 }
 
 .social-group {
-    font-family: 'CenturyGothic';
     display: flex;
     justify-content: space-between;
     max-width: 1700px;
