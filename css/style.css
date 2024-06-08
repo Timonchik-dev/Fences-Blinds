@@ -1105,9 +1105,9 @@ a:hover {
     .header_down {
         width: 250px;
         margin-top: 200px;
-        border-top: 3px solid #ffffff;
-        border-left: 3px solid #ffffff;
-        border-bottom: 3px solid #ffffff;
+        border-top: 2px solid #ffffff;
+        border-left: 2px solid #ffffff;
+        border-bottom: 2px solid #ffffff;
     }
 
     .header_subtitle {
@@ -1223,7 +1223,8 @@ a:hover {
     .header_subtitle {
         font-weight: 600;
         font-size: 11px;
-        padding-top: 8px;
+        padding-top: 10px;
+        padding-bottom: 3px;
         padding-left: 12px;
     }
 
@@ -1350,8 +1351,8 @@ a:hover {
     .header_subtitle {
         font-weight: 600;
         font-size: 11px;
-        padding-top: 8px;
-        padding-bottom: 0px;
+        padding-top: 10px;
+        padding-bottom: 3px;
         padding-left: 12px;
     }
 
