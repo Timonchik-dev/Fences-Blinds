@@ -7,10 +7,13 @@
 
 @font-face {
     font-family: 'CenturyGothic';
-    src: url(../font/CenturyGothicPaneuropeanThin.ttf);
+    src: url('../font/CenturyGothicPaneuropeanThin.woff2') format('woff2'),
+        url('../font/CenturyGothicPaneuropeanThin.woff') format('woff'),
+        url('../font/CenturyGothicPaneuropeanThin.ttf') format('truetype');
 }
 
 body {
+    font-family: 'CenturyGothic';
     background-color: #4B5E70;
 }
 
