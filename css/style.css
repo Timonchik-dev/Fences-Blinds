@@ -7,15 +7,15 @@
 
 @font-face {
     font-family: 'CenturyGothic';
-    src: url(/font/CenturyGothicPaneuropeanBlack.ttf);
-    src: url(/font/CenturyGothicPaneuropeanBlackItalic.ttf);
-    src: url(/font/CenturyGothicPaneuropeanBold.ttf);
-    src: url(/font/CenturyGothicPaneuropeanExtraBold.ttf);
-    src: url(/font/CenturyGothicPaneuropeanItalic.ttf);
-    src: url(/font/CenturyGothicPaneuropeanLight.ttf);
-    src: url(/font/CenturyGothicPaneuropeanRegular.ttf);
-    src: url(/font/CenturyGothicPaneuropeanSemiBold.ttf);
-    src: url(/font/CenturyGothicPaneuropeanThin.ttf);
+    src: url(./font/CenturyGothicPaneuropeanBlack.ttf);
+    src: url(./font/CenturyGothicPaneuropeanBlackItalic.ttf);
+    src: url(./font/CenturyGothicPaneuropeanBold.ttf);
+    src: url(./font/CenturyGothicPaneuropeanExtraBold.ttf);
+    src: url(./font/CenturyGothicPaneuropeanItalic.ttf);
+    src: url(./font/CenturyGothicPaneuropeanLight.ttf);
+    src: url(./font/CenturyGothicPaneuropeanRegular.ttf);
+    src: url(./font/CenturyGothicPaneuropeanSemiBold.ttf);
+    src: url(./font/CenturyGothicPaneuropeanThin.ttf);
 }
 
 body {
