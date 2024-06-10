@@ -950,11 +950,12 @@ a:hover {
     }
 
     .header_down {
-        width: 300px;
+        display: none;
+        /* width: 300px;
         margin-top: 300px;
         border-top: 3px solid #ffffff;
         border-left: 3px solid #ffffff;
-        border-bottom: 3px solid #ffffff;
+        border-bottom: 3px solid #ffffff; */
     }
 
     .header_subtitle {
