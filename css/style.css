@@ -363,27 +363,6 @@ a:hover {
     transition: color 0.1s linear;
 }
 
-@media screen and (max-width: 2560px) {
-
-.logo {
-    margin-left: -300px;
-}
-
-.nav-item {
-    margin-right: 200px;
-}
-
-.nav {
-    margin-left: -70px;
-}
-
-.header_down {
-    margin-top: 800px;
-}
-
-
-}
-
 @media screen and (max-width: 1680px) {
     .header_logotip {
         padding-left: 45px;
