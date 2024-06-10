@@ -419,9 +419,6 @@ a:hover {
         margin-bottom: 15px !important;
     }
 
-    .titles {
-    }
-
     .title {
         color: aliceblue;
         display: flex;
@@ -1335,7 +1332,6 @@ a:hover {
 
     .header_subtitle {
         font-weight: 600;
-        padding-top: 10px;
         font-size: 10px;
     }
 
