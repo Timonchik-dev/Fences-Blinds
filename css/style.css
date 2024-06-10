@@ -1315,7 +1315,7 @@ a:hover {
     }
 
     .swiper {
-        height: 35vh;
+        height: 40vh;
     }
 
     .swiper-pagination-bullet {
@@ -1335,7 +1335,8 @@ a:hover {
 
     .header_subtitle {
         font-weight: 600;
-        font-size: 11px;
+        padding-top: 10px;
+        font-size: 10px;
     }
 
     .header_down {
