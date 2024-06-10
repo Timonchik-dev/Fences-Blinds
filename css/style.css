@@ -194,8 +194,7 @@ body {
 
 .titles {
     background-color: #222c35;
-    height: 300px;
-    padding: 75px
+    padding: 35px
 }
 
 .title {
@@ -420,7 +419,6 @@ a:hover {
     }
 
     .titles {
-        height: 250px;
         padding: 0;
         padding-top: 45px;
     }
@@ -528,7 +526,6 @@ a:hover {
     }
 
     .titles {
-        height: 200px;
         padding: 0;
         padding-top: 30px;
     }
@@ -650,8 +647,6 @@ a:hover {
     }
 
     .titles {
-        height: 220px;
-        padding: 0;
         padding-top: 20px;
     }
 
@@ -864,8 +859,6 @@ a:hover {
     }
 
     .titles {
-        height: 200px;
-        padding: 0;
         padding-top: 15px;
     }
 
@@ -1114,10 +1107,6 @@ a:hover {
         font-size: 15px;
     }
 
-    .titles {
-        height: 180px;
-    }
-
     .title {
         font-size: 20px
     }
@@ -1208,10 +1197,6 @@ a:hover {
         margin-bottom: 0px !important;
     }
 
-    .titles {
-        height: 170px;
-    }
-
     .title {
         font-size: 15px;
     }
@@ -1238,6 +1223,7 @@ a:hover {
     }
 
     .description_tag {
+        padding-top: 30px;
         font-size: 17px;
     }
 
@@ -1394,7 +1380,7 @@ a:hover {
         font-size: 20px;
         width: 210px;
         height: 34px;
-        margin-top: 30px;
+        margin-top: 60px;
     }
 
     .connection {
